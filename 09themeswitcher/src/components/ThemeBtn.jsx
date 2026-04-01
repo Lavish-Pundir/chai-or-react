@@ -26,7 +26,7 @@ export default function ThemeBtn() {
 
       <div className="w-11 h-6 bg-gray-300 dark:bg-gray-700  rounded-full 
         peer-checked:bg-blue-600 transition 
-        after:content-[''] after:absolute :after:top-[2px] :after:left-[2px] 
+        after:content-[''] after:absolute after:top-[2px] after:left-[2px] 
         after:bg-white after:border after:rounded-full 
         after:h-5 after:w-5 after:transition-all 
         peer-checked:after:translate-x-full">
